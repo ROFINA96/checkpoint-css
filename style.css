@@ -1,13 +1,13 @@
 .rofina a{
     margin: 15px;
-    color:olivedrab ;
+    color: black;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     
 
     
 }
 a:hover{
-    color: beige;
+    color: blue;
     transform: scale(1);
 }
 .y{
@@ -17,7 +17,7 @@ a:hover{
     background-color:red;
 }
 body{
-    background-color: navy;
+    background-color: beige;
 }
 .fr{
     color: beige;
@@ -31,10 +31,9 @@ body{
     word-spacing: 230px;
 }
 .rt{
-    color: beige;
+    color: black;
 }
 body{
     font-style: italic;
 }
-;
 
